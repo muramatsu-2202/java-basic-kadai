@@ -2,11 +2,11 @@ package kadai_018;
 
 abstract public class Kato_Chapter18 {
 	//姓フィールド
-	String familyName = "加藤";
+	public String familyName = "加藤";
 	//名フィールド
-	String givenName;
+	public String givenName;
 	//住所フィールド
-	String address    = "東京都中野区○×";
+	public String address    = "東京都中野区○×";
 	
 	//メソッド
 	//共通紹介用
