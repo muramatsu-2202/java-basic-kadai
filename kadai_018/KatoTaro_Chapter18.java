@@ -9,7 +9,7 @@ public class KatoTaro_Chapter18 extends  Kato_Chapter18{
 	
 	}
 	
-	void eachintroduce() {
+	public void eachintroduce() {
 		System.out.println("私はJavaが得意です");
 	}
 
