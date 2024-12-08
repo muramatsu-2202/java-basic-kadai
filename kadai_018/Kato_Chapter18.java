@@ -17,7 +17,7 @@ abstract public class Kato_Chapter18 {
 	};
 	
 	//個別用
-	abstract public void eachintroduce();
+	abstract void eachintroduce();
 	
 	//実行メソッド
 	public void execlntroduce() {
